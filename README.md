@@ -7,7 +7,7 @@ Voici un exemple de fonctionnement simplifié
 
 ### Algorithme de Réconciliation en Vue d'Ensemble
 
-1. **Comparaison en Profondeur :** React parcourt les arbres du Virtual DOM de manière récursive, nœud par nœud, pour identifier les différences entre l'ancien et le nouveau Virtual DOM.
+1. **Comparaison en Profondeur :** React parcourt les arbres de composants de manière récursive, nœud par nœud, pour identifier les différences entre l'ancien et le nouveau DOM.
 
 2. **Comparaison par Clé :** Si des éléments sont en liste, React utilise des clés uniques (`key`) pour optimiser la comparaison. Les clés aident à détecter les changements dans les collections d'éléments.
 
