@@ -1,7 +1,9 @@
 # Diffing
 
 
-L'algorithme de comparaison, aussi appelé algorithme de réconciliation de React, est conçu pour être rapide et efficace. Voici une vue d'ensemble de son fonctionnement :
+L'algorithme de comparaison (ou algorithme de réconciliation) sur React, est conçu pour être rapide et efficace. 
+
+Voici un exemple de fonctionnement simplifié
 
 ### Algorithme de Réconciliation en Vue d'Ensemble
 
