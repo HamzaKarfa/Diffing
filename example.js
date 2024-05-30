@@ -1,6 +1,6 @@
 // Fonction principale de réconciliation
 function reconcile(oldNode, newNode) {
-    if (!oldNode) {
+    if (!oldNode) { 
         return createNode(newNode);
     } else if (!newNode) {
         return removeNode(oldNode);
