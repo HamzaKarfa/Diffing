@@ -1,4 +1,3 @@
-// Fonction principale de réconciliation
 function reconcile(oldNode, newNode) {
     if (!oldNode) { 
         return createNode(newNode);
